@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+    "components/component01",
+    "components/component02"
+]
